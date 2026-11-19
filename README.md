@@ -28,6 +28,6 @@ Projeto prático de arquitetura de nuvem simulando serviços essenciais da AWS (
 
 ### 1. Clonar o repositório e subir a infraestrutura
 ```bash
-git clone [https://github.com/SEU-USUARIO/projeto1-storage-infra.git](https://github.com/SEU-USUARIO/projeto1-storage-infra.git)
+git clone https://github.com/Guilherme-Soares777/projeto1-storage-infra.git(https://github.com/SEU-USUARIO/projeto1-storage-infra.git)
 cd projeto1-storage-infra
 docker compose up -d
